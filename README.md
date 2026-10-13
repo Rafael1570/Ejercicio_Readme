@@ -114,4 +114,4 @@ No se incluye un archivo `LICENSE` en el proyecto original, por lo que no se dec
 Esta documentación se ha elaborado a partir de los archivos reales de `Practica1.zip`. Describe el comportamiento existente y señala las partes que necesitan mejoras, sin dar por implementadas funcionalidades que no aparecen en el código.
 
 ## CHANGELOG
-[Enlace para archivo CHANGELOG]()
+[Enlace para archivo CHANGELOG](https://github.com/Rafael1570/Ejercicio_Readme/blob/main/changelog.md)
