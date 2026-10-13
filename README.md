@@ -108,7 +108,7 @@ Porque el array `$contactos` se inicializa vacío en cada petición. No hay alma
 
 ## CHANGELOG
 
-![CHANGELOG]([changelog](https://github.com/Rafael1570/Ejercicio_Readme/blob/main/changelog.md))
+[CHANGELOG]([changelog](https://github.com/Rafael1570/Ejercicio_Readme/blob/main/changelog.md))
 
 ## Licencia
 
