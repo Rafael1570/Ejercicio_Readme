@@ -23,7 +23,7 @@ Colección de ejercicios introductorios de PHP para practicar variables, arrays,
 | `registro.html` | Formulario para introducir nombre, correo y edad. |
 | `procesar.php` | Recibe el formulario por `POST`, valida campos y muestra una respuesta. |
 | `agenda.php` | Recibe un contacto por `POST` y lo muestra en una tabla. |
-| `bienvenida.php`(No se hizo) | Archivo PHP sin funcionalidad implementada todavía. |
+| `bienvenida.php` | Archivo PHP sin funcionalidad implementada todavía. |
 | `logout.php` | Archivo PHP sin funcionalidad implementada todavía. |
 
 ## Tecnologías utilizadas
@@ -84,6 +84,7 @@ El diagrama representa el flujo previsto del ejercicio. Actualmente, `procesar.p
 - [ ] Escapar la salida de los contactos en `agenda.php`.
 - [ ] Conservar los contactos entre peticiones si se desea una agenda persistente.
 - [ ] Implementar `bienvenida.php` y `logout.php`, si forman parte del objetivo de la práctica.
+- [x] Añadir licencia MIT y normas de contribución.
 
 ## Preguntas frecuentes
 
@@ -107,11 +108,19 @@ Porque el array `$contactos` se inicializa vacío en cada petición. No hay alma
 
 ## Licencia
 
-No se incluye un archivo `LICENSE` en el proyecto original, por lo que no se declara una licencia de reutilización.
+Este proyecto se distribuye bajo la **licencia MIT**. Consulta el archivo
+[LICENSE](LICENSE) para leer sus condiciones completas.
+
+Se ha elegido MIT porque es una licencia sencilla y permisiva, apropiada para
+una práctica educativa: permite estudiar, utilizar, modificar y compartir el
+código, incluso en otros proyectos, siempre que se conserve el aviso de
+copyright y el texto de la licencia. El software se ofrece sin garantías.
+
+## Contribuciones
+
+Las normas para proponer cambios y corregir errores están en
+[CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Nota técnica
 
 Esta documentación se ha elaborado a partir de los archivos reales de `Practica1.zip`. Describe el comportamiento existente y señala las partes que necesitan mejoras, sin dar por implementadas funcionalidades que no aparecen en el código.
-
-## CHANGELOG
-[Enlace para archivo CHANGELOG](https://github.com/Rafael1570/Ejercicio_Readme/blob/main/changelog.md)
