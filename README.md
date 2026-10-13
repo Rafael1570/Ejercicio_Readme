@@ -23,7 +23,7 @@ Colección de ejercicios introductorios de PHP para practicar variables, arrays,
 | `registro.html` | Formulario para introducir nombre, correo y edad. |
 | `procesar.php` | Recibe el formulario por `POST`, valida campos y muestra una respuesta. |
 | `agenda.php` | Recibe un contacto por `POST` y lo muestra en una tabla. |
-| `bienvenida.php` | Archivo PHP sin funcionalidad implementada todavía. |
+| `bienvenida.php`(No se hizo) | Archivo PHP sin funcionalidad implementada todavía. |
 | `logout.php` | Archivo PHP sin funcionalidad implementada todavía. |
 
 ## Tecnologías utilizadas
