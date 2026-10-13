@@ -106,6 +106,10 @@ Porque el array `$contactos` se inicializa vacío en cada petición. No hay alma
 
 **Rafael Vega Librero** — Práctica de PHP.
 
+## CHANGELOG
+
+![CHANGELOG](changelog)
+
 ## Licencia
 
 Este proyecto se distribuye bajo la **licencia MIT**. Consulta el archivo
